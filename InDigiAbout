@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	About
+</title>
+<link href="cssaboutindigi.css" rel="stylesheet" type="text/css">
+</head>
+<div class="InDigi">
+  <p> <img src="InDigi/Images/about.jpeg">
+</p> </div>
+</html>
