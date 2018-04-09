@@ -1,0 +1,90 @@
+title{
+	font-family: ariel rounded, sans-serif;
+	font-size: 14px;
+	text-align: top;
+}
+
+body{
+    background-image: url("InDigi/corn.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+li.nav {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li.nav a{
+	display: block;
+	background-color:none;
+	padding:10pt 20pt
+	text-decoration:none;
+}
+
+li.nav{
+	float:left;
+}
+
+li.nav a:hover {
+	background-color: yellow;
+}
+
+p {
+	font-family: ariel rounded, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color:black;
+}
+
+p2 {
+	font-family: ariel rounded, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color:yellow;
+}
+
+p3 {
+	font-family: ariel rounded, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color:black;
+}
+
+p4{
+	font-family: ariel rounded, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: yellow;
+}
+
+p5{
+	font-family: ariel rounded, sans-serif;
+	font-size: 14px;
+	text-align: bottom;
+	color: black;
+}
+
+.nav {
+	list-style-type:none;
+	/*margin:0;
+	padding:0;
+	overflow:hidden;*/
+}
+
+li.nav a {
+	display: block;
+	background-color: yellow;
+	padding:10pt 20pt
+	text-decoration:none;
+}
+
+li.nav{
+	float:left;
+}
+
+li.nav a:hover {
+	background-color: red;
+}
