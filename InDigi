@@ -4,36 +4,50 @@
 <title>
 InDigi
 </title>
-	<link  rel="stylesheet" type="text/css" href="cssindigi.css">
+	<link rel="stylesheet" type="text/css" href="cssindigi.css">
 </head>
 <body>
-<ul class="nav">
-		<li class="nav"><a href="#">Sign Up<a/></li>
-		<li class="nav"><a href="#">Log In</a></li>
-</ul>
+	<h2> InDigi</h2>
+	<button type="button">Sign Up </button>
+	<button type="button">Log In </button>
 
-<p>Here is an Opportunity…
-…An Opportunity to Reclaim what has been Nearly lost…
-</p>
-<p2>
-…An Opportunity to Learn Cultures that have Mystified the World…
-</p2>
-<p3>
-… Yet are just as Real and Alive as any other…
-…Join Us in this Journey to Empower Indigenous Heritage…
-</p3>
-<p4>
-…Through Digital Learning and Engaging Online Community…
-</p4>
-<p5>
-<ul class="nav">
-		<li class="nav"><a href="#">About<a/></li>
-		<li class="nav"><a href="#">Communty</a></li>
-		<li class="nav"><a href="#">Resources</a></li>
-		<li class="nav"><a href="#">Contact</a></li>
-</ul>
-</p5>
-<footer> Copyright 2018 by InDigi
-	</footer>
+<div class=container4>
+  <p>
+	Here is an Opportunity...
+     <br/>
+	...An Opportunity to Reclaim what has been Nearly lost...
+	<br/>
+	...An Opportunity to Learn Cultures that have Mystified the World...
+	<br/>
+	...Yet are just as Real and Alive as any other...
+	<br/>
+	...Join Us in this Journey to Empower Indigenous Heritage...
+	<br/>
+	...Through Digital Learning and Engaging Online Community...
+  </p>
+</div>
+
+
+<!-- <ul class="nav"> -->
+		<li class="nav">
+			<a href="#">About<a/>
+		</li>
+		<!-- <li class="nav"><a href="#">Communty</a></li> -->
+		<li class="nav">
+			<a class="nav" href="#">Community</a>
+		</li>
+		<li class="nav">
+			<a href="#">Resources</a>
+		</li>
+		<!-- <li class="nav"><a href="#">Contact</a></li> -->
+		 <li class="nav">
+		 	<a class="nav" href="#">Contact</a>
+		 </li>
+<!-- </ul> -->
+
+<footer> 
+	Copyright 2018 by InDigi
+</footer>
 </body>
+
 </html>
